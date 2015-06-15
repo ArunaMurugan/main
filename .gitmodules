@@ -1,0 +1,3 @@
+[submodule "main/folder"]
+	path = main/folder
+	url = https://github.com/ArunaMurugan/folder
